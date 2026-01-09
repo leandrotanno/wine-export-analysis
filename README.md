@@ -44,7 +44,7 @@ Este projeto foi desenvolvido como parte do **Tech Challenge - Fase 1** do curso
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/wine-export-analysis.git
+git clone https://github.com/leandrotanno/wine-export-analysis
 cd wine-export-analysis
 
 # Crie e ative um ambiente virtual
